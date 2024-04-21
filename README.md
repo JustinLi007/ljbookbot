@@ -1,1 +1,1 @@
-# ljbookbot
+# BookBot Project
